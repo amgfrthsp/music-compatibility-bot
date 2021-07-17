@@ -1,0 +1,1 @@
+# music-compatibility-bot
